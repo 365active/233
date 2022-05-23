@@ -7,7 +7,7 @@
     "env": {
         "UUID": {
             "description": "YuM UUID",
-            "value": ""
+            "value": "d263d335-8097-4b24-97ea-5a5296d1594c"
         },
         "TUNNEL_TOKEN": {
             "description": "CF Tunnel Token",
